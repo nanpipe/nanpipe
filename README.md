@@ -13,6 +13,17 @@
 4. Fullstack Java developer (Bootcamp at Edutecno Chile)
 5. Fullstack Javascript Developer
 
+## Programming Languages (Automation)
+- Rockwell Automation ⭐⭐⭐
+- Unitronic (Ladder)  ⭐⭐⭐
+
+## Programming Languages (Software)
+- Java        ⭐⭐
+- SpringBoot  ⭐⭐
+- HTML, CSS   ⭐⭐
+- WordPress   ⭐⭐⭐
+
+
 ## Soft Skills 📢
 
 - Strong communication and presentation
